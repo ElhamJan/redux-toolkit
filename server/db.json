@@ -1,0 +1,19 @@
+{
+  "todoItems": [
+    {
+      "completed": true,
+      "title": "todo1",
+      "id": 1
+    },
+    {
+      "completed": false,
+      "title": "todo2",
+      "id": 2
+    },
+    {
+      "completed": true,
+      "title": "todo3",
+      "id": 3
+    }
+  ]
+}
